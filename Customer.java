@@ -1,5 +1,4 @@
 /*
- Class: CMSC203 CRN 21787
  Program: Assignment #6
  Instructor: Gary Thai
  Summary of Description:
